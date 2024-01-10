@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sayedalihassaan
+- 👀 I’m interested in AI and Machine Learning | Deep Learning | Computer Vision | NLP | Data Science | Generative AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Amazing Projects related to AI field
+- 📫 How to reach me ... my linkedin profile https://www.linkedin.com/in/sayed-ali-482668262/
+- 📫 How to reach me ... my Kaggel profile  https://www.kaggle.com/engsaiedali/code
