@@ -29,7 +29,6 @@
 **Current Focus Areas:**
 - 🤖 **LLM Orchestration** - Building sophisticated AI agent systems
 - 🔍 **RAG Systems** - Developing real-time retrieval-augmented generation pipelines  
-- 🏗️ **MLOps** - Implementing scalable ML infrastructure and deployment strategies
 - 🌐 **End-to-End AI Solutions** - Creating complete intelligent systems from research to production
 
 **Fun Fact:** I often talk to my models... and sometimes they talk back (thanks to **LangChain** 😄)
@@ -112,7 +111,6 @@
 - **Deep Learning:** Neural networks, CNNs, RNNs, Transformers
 - **Computer Vision:** Image classification, object detection, segmentation
 - **Natural Language Processing:** Text analysis, sentiment analysis, language models
-- **MLOps:** Model deployment, monitoring, and lifecycle management
 
 ### **Specialized Technologies**
 - **LLM Integration:** Building applications with large language models
