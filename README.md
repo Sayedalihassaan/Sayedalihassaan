@@ -1,60 +1,43 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Sayed Ali and I'm an AI Engineer, specialized in Machine Learning, Deep Learning, Computer Vision, NLP, and building end-to-end intelligent systems.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
-✨ Creating intelligent solutions and debugging smart bugs since 2020<br>
-📚 I'm currently exploring advanced LLM orchestration, AI agents, and real-time RAG systems<br>
-🎯 Goals: Build scalable AI platforms for real-world impact<br>
-🎲 Fun fact: I often talk to my models... and sometimes they talk back (thanks to LangChain 😄)
+  My name is <strong>Sayed Ali</strong> and I'm an <strong>AI Engineer</strong>, specialized in Machine Learning, Deep Learning, Computer Vision, NLP, and building end-to-end intelligent systems.
 </p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🔍 About Me</h2>
 
-###
+<ul>
+  <li>✨ Building intelligent systems and debugging smart bugs since <strong>2020</strong></li>
+  <li>🧠 Currently exploring <strong>LLM orchestration, AI agents, and real-time RAG systems</strong></li>
+  <li>🎯 Goal: <strong>Develop scalable and robust AI platforms for real-world applications</strong></li>
+  <li>🎲 Fun fact: I often talk to my models... and sometimes they talk back (thanks to <strong>LangChain</strong> 😄)</li>
+</ul>
+
+---
+
+<h2 align="left">💻 I Code With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="40" alt="Scikit-learn logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain.svg" height="40" alt="LangChain logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-###
+---
 
-<h2 align="left">Tools & Platforms</h2>
+<h2 align="left">🛠️ Tools & Platforms</h2>
 
-###
-
-<p align="left">
-🧠 HuggingFace • LangChain • OpenAI APIs • Google Generative AI<br>
-📦 MLflow • Weights & Biases • Gradio • FastAPI<br>
-🔍 FAISS • ChromaDB • Pinecone<br>
-🧰 RAG Pipelines • AI Agents • Vector Databases • Transformers<br>
-☁️ Colab • Kaggle • Docker • Ubuntu/Linux
-</p>
+<ul>
+  <li>🤗 HuggingFace • LangChain • OpenAI APIs • Google Generative AI</li>
+  <li>📦 MLflow • Weights & Biases • Gradio • FastAPI</li>
+  <li>🔎 FAISS • ChromaDB • Pinecone</li>
+  <li>🧠 RAG Pipelines • AI Agents • Vector Databases • Transformers</li>
+  <li>☁️ Colab • Kaggle • Docker • Ubuntu/Linux</li>
+</ul>
