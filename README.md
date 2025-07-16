@@ -17,9 +17,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://your-image-url-here" alt="Sayed Ali" width="150" style="border-radius: 50%;" />
+</p>
+
 <h2 align="left">💻 I Code With</h2>
 
-<div align="left">
+
+<div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
