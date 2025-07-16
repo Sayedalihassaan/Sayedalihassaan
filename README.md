@@ -1,15 +1,42 @@
-- 👋 Hi, I’m @Sayedalihassaan
-- 👀 I’m interested in AI and Machine Learning | Deep Learning | Computer Vision | NLP | Data Science | Generative AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Amazing Projects related to AI field
-- 📫 How to reach me ... my linkedin profile https://www.linkedin.com/in/sayed-ali-482668262/
-- 📫 How to reach me ... my Kaggel profile  https://www.kaggle.com/engsaiedali/code
 
-Machine Learning & Deep Learning: Mastering the algorithms that fuel intelligent systems.
-Computer Vision: Empowering machines to see and understand the world like us.
-Natural Language Processing: Enabling seamless communication between humans and machines.
-Data Science: Extracting insights and meaning from the ever-growing ocean of data.
-Generative AI: Exploring the frontiers of creating new content and experiences.
 
-I believe great minds create greater things together. If you share my passion for AI and have amazing projects brewing, 
-let's connect! Let's build the future, one algorithm and one insightful conversation at a time.
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
