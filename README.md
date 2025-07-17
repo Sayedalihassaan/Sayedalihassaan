@@ -149,5 +149,5 @@ I believe in the transformative power of AI to solve real-world problems. My mis
 I'm always open to discussing new opportunities, collaborating on exciting projects, or sharing knowledge about AI and machine learning. Feel free to reach out!
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/sayedali">Sayed Ali</a> | Building the Future with AI</i>
+  <i>⭐️ From <a href="https://github.com/Sayedalihassaan">Sayed Ali</a> | Building the Future with AI</i>
 </div>
