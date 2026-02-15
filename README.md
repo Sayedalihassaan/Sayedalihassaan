@@ -7,12 +7,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/5493dc53-6810-4572-b455-d3d581d25168" width="150" height="150" style="border-radius: 50%; border: 3px solid #a78bfa;" alt="Sayed Ali"/>
-
-<br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Intelligent+Systems+Since+2020+%F0%9F%A4%96;LLM+Orchestration+%7C+RAG+Systems+%7C+AI+Agents;From+Research+to+Production+%E2%80%94+End+to+End;I+talk+to+my+models...+they+talk+back+%F0%9F%98%84)](https://git.io/typing-svg)
 
 </div>
