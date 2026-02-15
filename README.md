@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sayed%20Ali&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20ML%20Specialist%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=78&descSize=16&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:1a1a2e&height=220&section=header&text=Sayed%20Ali&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=52&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20Architect%20%E2%80%A2%20LLM%20Specialist&descAlignY=75&descSize=15&descColor=7eaed4" />
 
 </div>
 
-<br/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Intelligent+Systems+Since+2020+%F0%9F%A4%96;LLM+Orchestration+%7C+RAG+Systems+%7C+AI+Agents;From+Research+to+Production+%E2%80%94+End+to+End;I+talk+to+my+models...+they+talk+back+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=🧠+Architecting+Agentic+AI+Systems+%7C+Multi-Agent+Orchestration;🔗+RAG+Pipelines+%2B+Vector+Search+%2B+Knowledge+Graphs;🤖+LLM+Fine-tuning+%7C+Prompt+Engineering+%7C+RLHF;⚡+From+Research+Paper+to+Production+API+—+End+to+End;🌐+Building+AI+that+Reasons%2C+Remembers%2C+and+Acts)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,78 +14,160 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-saiedhassaan2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:saiedhassaan2@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-saiedhassaan2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:saiedhassaan2@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/sayed-ali-482668262/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayed%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sayed-ali-482668262/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sayedalihassaan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Sayedalihassaan)
+[![GitHub](https://img.shields.io/badge/GitHub-Sayedalihassaan-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Sayedalihassaan)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Sayedalihassaan&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
 
 </div>
 
 ---
 
-## `> whoami`
+## `whoami`
 
 ```python
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────────────
+#  Sayed Ali — AI Engineer Profile
+#  "Intelligence is not given. It is engineered."
+# ─────────────────────────────────────────────────────────────────
+
+from dataclasses import dataclass, field
+from typing import List, Dict
+
+@dataclass
 class SayedAli:
-    name       = "Sayed Ali"
-    title      = "AI Engineer & Machine Learning Specialist"
-    location   = "Egypt 🌍"
-    experience = "Building intelligent systems since 2020"
+    name         : str  = "Sayed Ali"
+    title        : str  = "Generative AI Engineer & Agentic Systems Architect"
+    location     : str  = "Egypt 🌍"
+    active_since : str  = "2020"
 
-    focus = [
-        "🤖 LLM Orchestration  — Sophisticated multi-agent AI systems",
-        "🔍 RAG Pipelines      — Real-time retrieval-augmented generation",
-        "🌐 End-to-End AI      — Research → Production at scale",
-    ]
+    # ── Core Expertise ──────────────────────────────────────────
+    specializations: List[str] = field(default_factory=lambda: [
+        "🤖  Agentic AI         → Autonomous agents, tool-use, planning & reasoning loops",
+        "🧠  GenAI Engineering  → LLM orchestration, prompt engineering, RLHF, fine-tuning",
+        "🔍  RAG Architectures  → Hybrid search, re-ranking, knowledge graphs, vector DBs",
+        "🔗  LLM Integration    → OpenAI · Anthropic · Gemini · Mistral · open-source LLMs",
+        "⚙️  MLOps & Serving   → End-to-end pipelines, model deployment, real-time inference",
+        "👁️  Computer Vision   → Detection, segmentation, multimodal AI systems",
+        "📊  Classical ML       → Ensemble methods, feature engineering, Bayesian approaches",
+    ])
 
-    fun_fact = "I often talk to my models... and they talk back (thanks LangChain 😄)"
+    # ── Current Research Focus ───────────────────────────────────
+    research: List[str] = field(default_factory=lambda: [
+        "Multi-agent collaboration & emergent intelligence",
+        "Long-context reasoning and memory architectures",
+        "Tool-augmented LLMs and function-calling systems",
+        "Multimodal AI: vision-language models (VLMs)",
+        "AI alignment, RLHF, and preference optimization (DPO/PPO)",
+    ])
+
+    quote: str = "Build systems that don't just predict — they reason, plan, and act."
+
+me = SayedAli()
+print(f"[{me.title}] — {me.quote}")
 ```
 
 ---
 
-## `> tech_stack --full`
+## `> architecture --agentic-ai`
 
-### 🧠 AI / ML Core
+```
+┌──────────────────────────────────────────────────────────────────┐
+│              AGENTIC AI SYSTEM DESIGN  (My Expertise)            │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   USER / TASK                                                    │
+│       │                                                          │
+│       ▼                                                          │
+│  ┌─────────────────┐     ┌─────────────────────────────────┐    │
+│  │  ORCHESTRATOR   │────▶│         PLANNER / REASONER      │    │
+│  │  (LLM Core)     │     │  Chain-of-Thought · ReAct · ToT │    │
+│  └─────────────────┘     └─────────────────────────────────┘    │
+│         │                                                        │
+│    ┌────┴───────────────────────────────────┐                   │
+│    ▼           ▼              ▼             ▼                   │
+│  [TOOLS]   [MEMORY]      [RAG/SEARCH]  [SUB-AGENTS]            │
+│  APIs       Vector DB     Embeddings    Specialized             │
+│  Code Exec  Long-term     Re-ranking    Domain LLMs             │
+│  Web        Short-term    Hybrid        Parallel Workers        │
+│    │           │              │             │                   │
+│    └────────────────────────────────────────┘                   │
+│                        │                                         │
+│                   FINAL OUTPUT                                   │
+│          (Action · Answer · Artifact · Decision)                 │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> tech_stack --genai-first`
+
+### 🧠 Generative AI & LLM Ecosystem
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00D4FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=6EE7B7)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+
+</div>
+
+### 🔍 RAG & Vector Infrastructure
+
+<div align="center">
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00D4FF)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C4B7?style=for-the-badge&logo=weaviate&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</div>
+
+### ⚡ Deep Learning Frameworks
 
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21F?style=for-the-badge&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT%20%2F%20LoRA-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
-### 💻 Core Languages
+### 💻 Languages
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-### 📊 Data Science & Visualization
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & DevOps
+### ☁️ MLOps, Cloud & Infrastructure
 
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -97,44 +178,78 @@ class SayedAli:
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### 🛠️ Additional Tools
-
-<div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## `> expertise --domains`
+## `> expertise --deep-dive`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning & AI
-- **Deep Learning** — CNNs, RNNs, Transformers, Attention Mechanisms
-- **Computer Vision** — Classification, Object Detection, Segmentation
-- **NLP** — Text Analysis, Sentiment Analysis, Language Models
-- **Classical ML** — Ensemble Methods, Feature Engineering, Model Evaluation
+### 🤖 Agentic AI Systems
+- **Multi-Agent Orchestration** — LangGraph, CrewAI, AutoGen, custom frameworks
+- **ReAct & Planning Loops** — Reason + Act cycles, Tree-of-Thought, self-reflection
+- **Tool-Augmented LLMs** — Function calling, code interpreters, API integration
+- **Memory Architectures** — Episodic, semantic, procedural, working memory
+- **Agent Evaluation** — Benchmarking, tracing, observability (LangSmith, Weave)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Specialized Systems
-- **LLM Integration** — OpenAI, Anthropic, open-source LLMs
-- **RAG Pipelines** — Vector DBs, Embeddings, Hybrid Search
-- **AI Agents** — Autonomous & Multi-Agent Architectures
-- **Real-Time AI** — Low-latency systems, streaming inference
+### 🧬 Generative AI Engineering
+- **LLM Fine-Tuning** — LoRA, QLoRA, PEFT, full fine-tuning on custom datasets
+- **Alignment & RLHF** — PPO, DPO, preference optimization pipelines
+- **Prompt Engineering** — Few-shot, chain-of-thought, structured output, adversarial
+- **Multimodal AI** — Vision-Language Models (VLMs), image-text reasoning
+- **LLM Evaluation** — RAGAS, DeepEval, custom benchmarks, hallucination detection
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 RAG & Knowledge Systems
+- **Ingestion Pipelines** — PDF, web, structured/unstructured data parsers
+- **Chunking Strategies** — Semantic, recursive, sentence-window, parent-child
+- **Embedding Models** — OpenAI, Cohere, BGE, E5, custom domain-specific
+- **Hybrid Search** — BM25 + dense retrieval, cross-encoder re-ranking
+- **Graph RAG** — Knowledge graph construction, entity extraction, graph traversal
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Production AI Systems
+- **Streaming Inference** — Real-time token streaming, async pipelines
+- **Model Serving** — vLLM, TGI, Ollama, custom inference servers
+- **Observability** — Tracing, logging, cost monitoring, latency optimization
+- **Safety & Guardrails** — Content filtering, output validation, red-teaming
+- **Scalable APIs** — FastAPI microservices, async workers, load balancing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+- **Object Detection** — YOLO, DETR, Faster R-CNN, real-time detection
+- **Segmentation** — SAM, Mask R-CNN, semantic & instance segmentation
+- **Classification** — EfficientNet, ViT, ResNet, transfer learning pipelines
+- **Multimodal** — CLIP, LLaVA, GPT-4V integration for vision-language tasks
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Classical ML & Data Science
+- **Ensemble Methods** — XGBoost, LightGBM, CatBoost, stacking & blending
+- **Feature Engineering** — Selection, transformation, dimensionality reduction
+- **Statistical Modeling** — Bayesian inference, time-series (LSTM, Prophet)
+- **Data Pipelines** — ETL, Pandas, Polars, DuckDB, large-scale preprocessing
 
 </td>
 </tr>
@@ -146,21 +261,21 @@ class SayedAli:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayedalihassaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayedalihassaan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&ring_color=00d4ff"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedalihassaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedalihassaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayedalihassaan&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayedalihassaan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayedalihassaan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayedalihassaan&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=003554"/>
 
 </div>
 
@@ -170,21 +285,35 @@ class SayedAli:
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sayedalihassaan&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sayedalihassaan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
 
 </div>
 
 ---
 
-## `> mission_statement`
+## `> learning --current-2025`
 
-<div align="center">
+```yaml
+# What I'm currently working on & learning
 
-> *"The best way to predict the future is to build it — one intelligent system at a time."*
+active_research:
+  - "Agent memory consolidation and long-horizon planning"
+  - "Speculative decoding for faster LLM inference"
+  - "Mixture of Experts (MoE) architectures"
+  - "Constitutional AI and scalable oversight techniques"
+  - "Embodied AI and robotics-LLM integration"
 
-</div>
+reading:
+  - "Attention Is All You Need — revisiting with modern context"
+  - "ReAct: Synergizing Reasoning and Acting in Language Models"
+  - "Self-RAG: Learning to Retrieve, Generate, and Critique"
+  - "Toolformer: Language Models Can Teach Themselves to Use Tools"
 
-I believe in the transformative power of AI to solve real-world problems. My mission is to develop scalable, robust AI platforms that bridge the gap between cutting-edge research and practical production systems — making intelligent technology accessible and impactful for everyone.
+building:
+  - "Production-grade multi-agent research assistant"
+  - "Adaptive RAG with query routing and self-correction"
+  - "LLM evaluation harness for enterprise use-cases"
+```
 
 ---
 
@@ -192,9 +321,10 @@ I believe in the transformative power of AI to solve real-world problems. My mis
 
 <div align="center">
 
-| 💼 Full-time Roles | 🤝 Collaborations | 🎙️ Speaking | 📚 Knowledge Sharing |
-|:--:|:--:|:--:|:--:|
-| AI/ML Engineering | Open Source AI Projects | AI/ML Conferences | Mentoring & Blogging |
+| 💼 Full-time Roles | 🤝 Open Source | 🔬 Research | 🎙️ Speaking | 📚 Mentoring |
+|:--:|:--:|:--:|:--:|:--:|
+| GenAI / Agentic AI | LLM Tooling | AI Alignment | AI Conferences | Junior Engineers |
+| ML Engineering | RAG Systems | Evaluation | Workshops | Knowledge Sharing |
 
 </div>
 
@@ -202,9 +332,19 @@ I believe in the transformative power of AI to solve real-world problems. My mis
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiedhassaan2@gmail.com)
+> *"The most dangerous phrase in engineering is 'we've always done it this way.' In AI, the future belongs to those who dare to build what doesn't exist yet."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Drop%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:saiedhassaan2@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-ali-482668262/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sayed-ali-482668262/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Sayedalihassaan)
 
 </div>
 
@@ -212,8 +352,8 @@ I believe in the transformative power of AI to solve real-world problems. My mis
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1b2a,100:000000&height=120&section=footer&fontColor=00d4ff&animation=fadeIn" />
 
-<sub>⭐️ From <a href="https://github.com/Sayedalihassaan"><strong>Sayed Ali</strong></a> — Building the Future with AI, one commit at a time.</sub>
+<sub>⚡ Built by <a href="https://github.com/Sayedalihassaan"><strong>Sayed Ali</strong></a> — Engineering Intelligence, One Agent at a Time.</sub>
 
 </div>
